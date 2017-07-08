@@ -1,0 +1,8 @@
+Steps to install Jekyll Themes in Github. 
+
+1) Choose the theme and fork the theme
+2) Rename the Project 
+3) Delete the other gh-branches of the theme
+4) Create the new gh-pages branch in align with the new project/web you want to set up. (eg. gh-pages-Cassandra)
+5) modify the config yaml 
+6) go to posts and change the links.
